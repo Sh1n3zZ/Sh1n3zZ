@@ -1,10 +1,10 @@
 ### Welcome to Sh1n3zZ's Hut 👋
 
-<a href="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggrqy7om28j30j80omjtq.jpg">
-  <img align="left" alt="Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+<a href="https://shinezz.cc">
+  <img align="left" alt="Blog" width="22px" src="https://shinezz.cc/usr/uploads/airplay.svg" />
 </a>
 <a href="mailto:i@shinezz.cc">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="'Gmail" width="22px" src="https://shinezz.cc/usr/uploads/mail.svg" />
 </a>
 
 <br />
