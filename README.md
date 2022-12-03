@@ -1,10 +1,10 @@
 ### Welcome to Sh1n3zZ's Hut 👋
 
 <a href="https://shinezz.cc">
-  <img align="left" alt="Blog" width="22px" src="https://shinezz.cc/usr/uploads/airplay.svg" />
+  <img align="left" alt="Blog" width="24px" src="https://shinezz.cc/usr/uploads/airplay.svg" />
 </a>
 <a href="mailto:i@shinezz.cc">
-  <img align="left" alt="'Gmail" width="22px" src="https://shinezz.cc/usr/uploads/mail.svg" />
+  <img align="left" alt="'email" width="24px" src="https://shinezz.cc/usr/uploads/mail.svg" />
 </a>
 
 <br />
