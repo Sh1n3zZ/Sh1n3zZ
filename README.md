@@ -1,16 +1,16 @@
 ### Welcome to Sh1n3zZ's Hut 👋
 
-<a href="https://shinezz.cc">
-  <img align="left" alt="Blog" width="24px" src="https://shinezz.cc/usr/uploads/airplay.svg" />
+<a href="https://blog.shinezz.cc">
+  <img align="left" alt="Blog" width="24px" src="https://blog.shinezz.cc/usr/uploads/airplay.svg" />
 </a>
 <a href="mailto:i@shinezz.cc">
-  <img align="left" alt="'email" width="24px" src="https://shinezz.cc/usr/uploads/mail.svg" />
+  <img align="left" alt="'email" width="24px" src="https://blog.shinezz.cc/usr/uploads/mail.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Sh1n3zZ 😉, a student 👨🏻‍💻 from China 🇨🇳. I'm interested in open source and amateur, HTML is my best language . Currently, I'm working on [Sh1n3zZ/Draw-Lots-Tools](https://github.com/Sh1n3zZ/Draw-Lots-Tools) and [Sh1n3zZ/PetHouse](https://github.com/Sh1n3zZ/PetHouse). Beside's programming, I love a️ lovely girl for me, [Click This to Learn More](https://love.shinezz.cc).
+Hi, I'm Sh1n3zZ 😉, a student 👨🏻‍💻 from China 🇨🇳. I'm interested in open source and amateur, HTML is my best language . Currently, I'm working on [Sh1n3zZ/Draw-Lots-Tools](https://github.com/Sh1n3zZ/Draw-Lots-Tools) and [Sh1n3zZ/PetHouse](https://github.com/Sh1n3zZ/PetHouse).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
