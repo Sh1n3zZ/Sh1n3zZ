@@ -1,10 +1,10 @@
 ### Welcome to Sh1n3zZ's Hut 👋
 
-<a href="https://blog.shinezz.cc">
-  <img align="left" alt="Blog" width="24px" src="https://blog.shinezz.cc/usr/uploads/airplay.svg" />
+<a href="https://log.lightxi.com">
+  <img align="left" alt="Blog" width="24px" src="https://log.lightxi.com/usr/uploads/airplay.svg" />
 </a>
 <a href="mailto:i@shinezz.cc">
-  <img align="left" alt="'email" width="24px" src="https://blog.shinezz.cc/usr/uploads/mail.svg" />
+  <img align="left" alt="'email" width="24px" src="https://log.lightxi.com/usr/uploads/mail.svg" />
 </a>
 
 <br />
