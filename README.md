@@ -3,7 +3,7 @@
 <a href="https://log.lightxi.com">
   <img align="left" alt="Blog" width="24px" src="https://log.lightxi.com/usr/uploads/airplay.svg" />
 </a>
-<a href="mailto:i@shinezz.cc">
+<a href="mailto:postmaster@lightxi.com">
   <img align="left" alt="'email" width="24px" src="https://log.lightxi.com/usr/uploads/mail.svg" />
 </a>
 
