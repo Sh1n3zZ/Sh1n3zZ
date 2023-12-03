@@ -22,7 +22,7 @@ Hi, I'm Sh1n3zZ.
 - [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - Actual Controller
 - [Deeptrain](https://github.com/Deeptrain-Community/) Deeptrain Community - Full Stack Development
 
-**technology stack**
+**Technology Stack**
 
 <p align="center">
 <img src="./icon/arduino-original.svg" alt="arduino" width="40" height="40"/>
