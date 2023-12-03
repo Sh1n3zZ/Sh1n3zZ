@@ -17,6 +17,10 @@ Hi, I'm Sh1n3zZ.
 - 📫 Please email via Sh1n3zZ@lightxi.com to reach me.
 - 👀 See my [Blog](https://akihitomi.com) to get more info.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=Sh1n3zZ&show_icons=true&hide_border=true)
+**Where am I**
+
+- [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - Actual Controller
+- [Deeptrain](https://github.com/Deeptrain-Community/) Deeptrain Community - Full Stack Development
+
 
 ⭐️ From [Sh1n3zZ](https://github.com/Sh1n3zZ)
