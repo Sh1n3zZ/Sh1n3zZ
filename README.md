@@ -22,5 +22,19 @@ Hi, I'm Sh1n3zZ.
 - [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - Actual Controller
 - [Deeptrain](https://github.com/Deeptrain-Community/) Deeptrain Community - Full Stack Development
 
+<img src="./icon/arduino-original.svg" alt="arduino" width="40" height="40"/>
+<img src="./icon/bash-original.svg" alt="bash" width="40" height="40"/>
+<img src="./icon/c-original.svg" alt="c" width="40" height="40"/>
+<img src="./icon/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="./icon/git-original.svg" alt="git" width="40" height="40"/>
+<img src="./icon/github-original.svg" alt="github" width="40" height="40"/>
+<img src="./icon/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="./icon/jquery-original.svg" alt="jquery" width="40" height="40"/>
+<img src="./icon/php-original.svg" alt="php" width="40" height="40"/>
+<img src="./icon/react-original.svg" alt="react" width="40" height="40"/>
+<img src="./icon/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+<img src="./icon/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+
+
 
 ⭐️ From [Sh1n3zZ](https://github.com/Sh1n3zZ)
