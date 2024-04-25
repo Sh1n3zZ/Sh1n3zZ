@@ -9,7 +9,7 @@ Hi, I'm Sh1n3zZ.
 
 **Current Status Quo**
 
-- 👨🏻‍💻 15 years old, a high school freshman, currently studying at Zhuhai No.3 Middle School.
+- 👨🏻‍💻 15 years old, a high school freshman, currently studying at Zhuhai No.3 High School.
 - 🌱 I’m currently learning C++.
 - 🤔 My research interests are Artificial intelligence and big data.
 - 💼 Actual controller of Zhuhai LightXi Cloud Technology Co., Ltd.
