@@ -1,44 +1,36 @@
-### Hi there 👋
+# Hi! 👋
 
-<br />
-<br />
+## About Me
 
-Hi, I'm Sh1n3zZ.
+Hi, I'm Sh1n3zZ (a.k.a Rakuyou), a 16yo student from Zhuhai, Guangdong, China.  
+Currently, I'm studying at Zhuhai No.3 High School & serving as the actual controller of [Zhuhai Xiyun Cloud Technology Co., Ltd.](https://github.com/LightXi)
 
-  <img align="right" alt="GIF" src="https://stats.deeptrain.net/user/Sh1n3zZ" />
+<img align="right" alt="GIF" src="https://stats.deeptrain.net/user/Sh1n3zZ" />
 
-**Current Status Quo**
+Also, I am a core dev of the [Deeptrain-Community](https://github.com/Deeptrain-Community),  
+written with ❤️ & [zmh-program](https://github.com/zmh-program).
 
-- 👨🏻‍💻 15 years old, a high school freshman, currently studying at Zhuhai No.3 Middle School.
-- 🌱 I’m currently learning C++.
-- 🤔 My research interests are Artificial intelligence and big data.
-- 💼 Actual controller of Zhuhai LightXi Cloud Technology Co., Ltd.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via Sh1n3zZ@lightxi.com to reach me.
-- 👀 See my [Blog](https://akihitomi.com) to get more info.
+Congratulations to Deeptrain-Community/chatnio on reaching the
 
-**Where am I**
+[![](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
 
-- [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - Actual Controller
-- [Deeptrain](https://github.com/Deeptrain-Community/) Deeptrain Community - Full Stack Development
+## Find Me At
 
-**Technology Stack**
+![Github](https://img.shields.io/github/followers/Sh1n3zZ?style=flat-square&logo=github&labelColor=black&color=ffc0cb)
+[![X (Twitter)](https://img.shields.io/badge/-RakuyouDesu-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/RakuyouDesu)
+[![Telegram](https://img.shields.io/badge/-RakuyouDesu-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/RakuyouDesu)
+[![Ethereum](https://img.shields.io/badge/-rakuyoudesu.eth-black?labelColor=black&logo=ethereum&logoColor=white&style=flat-square)](https://etherscan.io/name-lookup-search?id=rakuyoudesu.eth)
+[![Personal Site](https://img.shields.io/badge/-www.akihitomi.com-black?labelColor=black&logo=googlechrome&logoColor=white&style=flat-square)](https://www.akihitomi.com/)
+[![QQ](https://img.shields.io/badge/-1934151791-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square)](./)
+[![WeChat](https://img.shields.io/badge/-Sh1n3zZx-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
+[![Email](https://img.shields.io/badge/-shinezz@lightxi.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:shinezz@lightxi.com)
 
-<p align="center">
-<img src="./icon/arduino-original.svg" alt="arduino" width="40" height="40"/>
-<img src="./icon/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="./icon/c-original.svg" alt="c" width="40" height="40"/>
-<img src="./icon/css3-original.svg" alt="css" width="40" height="40"/>
-<img src="./icon/git-original.svg" alt="git" width="40" height="40"/>
-<img src="./icon/github-original.svg" alt="github" width="40" height="40"/>
-<img src="./icon/html5-original.svg" alt="html" width="40" height="40"/>
-<img src="./icon/jquery-original.svg" alt="jquery" width="40" height="40"/>
-<img src="./icon/php-original.svg" alt="php" width="40" height="40"/>
-<img src="./icon/react-original.svg" alt="react" width="40" height="40"/>
-<img src="./icon/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-<img src="./icon/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-</p>
+## Tech Stack & Tools
 
-
-
-⭐️ From [Sh1n3zZ](https://github.com/Sh1n3zZ)
+| ![Embedded](https://img.shields.io/badge/-EMBEDDED-000?style=flat-square&logoColor=white)           | ![Arduino](https://img.shields.io/badge/-Arduino-000?style=flat-square&logo=arduino&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=white) ![Protel](https://img.shields.io/badge/-Protel-000?style=flat-square&logoColor=white) ![LCEDA](https://img.shields.io/badge/-LCEDA-000?style=flat-square&logoColor=white)                                                                                                                                                                                                                                 |
+| :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![RD & FE](https://img.shields.io/badge/-RD%20&%20FE-000?style=flat-square&logoColor=white)         | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=kotlin&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron&logoColor=white) |
+| ![Network](https://img.shields.io/badge/-Network-000?style=flat-square&logoColor=white)             | ![RouterOS](https://img.shields.io/badge/-RouterOS-000?style=flat-square&logo=mikrotik&logoColor=white) ![Cisco](https://img.shields.io/badge/-Cisco-000?style=flat-square&logo=cisco&logoColor=white) ![AS142586](https://img.shields.io/badge/-AS142586-000?style=flat-square&logoColor=white) ![BIRD](https://img.shields.io/badge/-BIRD-000?style=flat-square&logoColor=white)                                                                                                                                                                                                                                                                                                                  |
+| ![Algorithms](https://img.shields.io/badge/-ALGORITHMS-000?style=flat-square&logoColor=white)       | ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ![Miscellaneous](https://img.shields.io/badge/-MISCELLANEOUS-000?style=flat-square&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![Learning](https://img.shields.io/badge/-LEARNING-000?style=flat-square&logoColor=white)           | ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-000?style=flat-square&logo=huggingface&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-000?style=flat-square&logo=web3dotjs&logoColor=white) ![Crypto](https://img.shields.io/badge/-Crypto-000?style=flat-square&logo=bitcoin&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-000?style=flat-square&logo=openai&logoColor=white)                                                                                                                                                                                                                                                                                        |
